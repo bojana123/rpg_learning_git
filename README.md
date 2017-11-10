@@ -2,6 +2,7 @@
 ### A template to train and test your machine learning models in tensorflow
 
 ![alt text](./readme_img/tensorflowo.jpg)
+Hello!
 
 While there are plenty of very nice libraries to provide high-level API for
 implementing deep neural networks models, e.g. [Keras](https://keras.io/) or [TFlearn](http://tflearn.org/), this repo

@@ -1,4 +1,6 @@
 ./results/*
+*.png
 *.pyc
 */.ropeproject/*
 *.ropeproject/*
+./tempp
